@@ -1,5 +1,5 @@
-# TOC
-- [TOC](#toc)
+# Table of contents
+- [Table of contents](#table-of-contents)
 - [General](#general)
 - [Important note about accounts](#important-note-about-accounts)
 - [Azure](#azure)
@@ -139,3 +139,5 @@ Check out more here about the Power Platform: https://powerplatform.microsoft.co
 ## Setup
 
 1. There are a variety of ways to set up Power Platform trials, and Microsoft has written a pretty detailed guide on setting this up. Rather than reinvent the wheel, I'm going to point you to their documentation. The only suggestion I have here is when they tell you to login to the Power Platform admin portal, do that using the admin account you created above in the O365 trial setup.
+
+2. Visit this link to follow the official guide of setting up Power Platform trials https://docs.microsoft.com/en-us/power-platform/admin/trial-environments
